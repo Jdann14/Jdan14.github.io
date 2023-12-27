@@ -12,3 +12,5 @@ Sales 2 years (HS)
 
 ### Projects
 - Kaggle ML projects using random forest classifiers
+- Cleaned and wrangled data before training and testing model
+- [kaggle page](https://www.kaggle.com/code/joshdannunzio/random-forest-prediction?scriptVersionId=150719482)
