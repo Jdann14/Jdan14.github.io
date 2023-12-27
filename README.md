@@ -1,6 +1,7 @@
-# Third Year Student at Univeristy of Colorado
+# Josh D'Annunzio
 
 ### Education
+Third Year Student at Univeristy of Colorado
 Statistics and Data Science BA
 
 ### Work Experience 
