@@ -1,16 +1,25 @@
 # Josh D'Annunzio
 
 ### Education
-- Third Year Student at Univeristy of Colorado
+- Fourth Year Student at Univeristy of Colorado
 - Statistics and Data Science BA
+- Information Sciences minor
 
 ### Work Experience 
+Data Analyst Intern at RELI Group May 2024 - present
 Sales 2 years (HS)
 
 ### Acheivements
-3.8 Major GPA
+3.55 GPA
+
+### Technical skills
+- Programming languages: Python (pandas, scikit-learn), R, SQL, Java, C++, JavaScript
+- Data Visualization: Python (seaborn, matplotlib), R (Ggplot), Tableau
+- Machine learning: Classification, Regression, Clustering
+- Statistics: PCA, ANOVA
+- Fundamental Maths: Multivariable Calclulus, Linear Algebra, Probability, Markov Processes
 
 ### Projects
-- ML projects through kaggle
-- Cleaned and wrangled data before training and testing model using random forest classification
-- [notebook](https://www.kaggle.com/code/joshdannunzio/random-forest-prediction?scriptVersionId=150719482)
+- Various ML projects
+- Built a logistic regressioon model predicting the winner of baseball games with a 75% accuracy
+- 
